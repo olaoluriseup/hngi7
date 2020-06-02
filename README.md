@@ -1,2 +1,3 @@
 # hngi7
 this is the repository for internship with HNG
+this is the first task of the internship...
